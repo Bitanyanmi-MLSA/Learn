@@ -1,0 +1,101 @@
+sale_id,date,product,category,quantity,unit_price,discount,total_price,customer_id,region,payment_method
+1,2025-01-01,Widget A,Widgets,1,19.99,0.00,19.99,CUST1001,North,Credit Card
+2,2025-01-02,Widget B,Widgets,2,24.50,1.50,47.50,CUST1002,South,PayPal
+3,2025-01-03,Gadget C,Gadgets,3,9.99,3.00,26.97,CUST1003,East,Cash
+4,2025-01-04,Gadget D,Gadgets,4,14.75,4.50,54.50,CUST1004,West,Wire
+5,2025-01-05,Thingamajig E,Thingamajigs,5,49.99,0.00,249.95,CUST1005,North,Credit Card
+6,2025-01-06,Doohickey F,Accessories,1,5.50,1.50,4.00,CUST1006,South,PayPal
+7,2025-01-07,Accessory G,Accessories,2,3.25,3.00,3.50,CUST1007,East,Cash
+8,2025-01-08,Tool H,Tools,3,29.95,4.50,85.35,CUST1008,West,Wire
+9,2025-01-09,Widget A,Widgets,4,19.99,0.00,79.96,CUST1009,North,Credit Card
+10,2025-01-10,Widget B,Widgets,5,24.50,1.50,121.00,CUST1010,South,PayPal
+11,2025-01-11,Gadget C,Gadgets,1,9.99,3.00,6.99,CUST1011,East,Cash
+12,2025-01-12,Gadget D,Gadgets,2,14.75,4.50,25.00,CUST1012,West,Wire
+13,2025-01-13,Thingamajig E,Thingamajigs,3,49.99,0.00,149.97,CUST1013,North,Credit Card
+14,2025-01-14,Doohickey F,Accessories,4,5.50,1.50,20.50,CUST1014,South,PayPal
+15,2025-01-15,Accessory G,Accessories,5,3.25,3.00,13.25,CUST1015,East,Cash
+16,2025-01-16,Tool H,Tools,1,29.95,4.50,25.45,CUST1016,West,Wire
+17,2025-01-17,Widget A,Widgets,2,19.99,0.00,39.98,CUST1017,North,Credit Card
+18,2025-01-18,Widget B,Widgets,3,24.50,1.50,72.00,CUST1018,South,PayPal
+19,2025-01-19,Gadget C,Gadgets,4,9.99,3.00,36.96,CUST1019,East,Cash
+20,2025-01-20,Gadget D,Gadgets,5,14.75,4.50,69.25,CUST1020,West,Wire
+21,2025-01-21,Thingamajig E,Thingamajigs,1,49.99,0.00,49.99,CUST1021,North,Credit Card
+22,2025-01-22,Doohickey F,Accessories,2,5.50,1.50,9.50,CUST1022,South,PayPal
+23,2025-01-23,Accessory G,Accessories,3,3.25,3.00,6.75,CUST1023,East,Cash
+24,2025-01-24,Tool H,Tools,4,29.95,4.50,115.30,CUST1024,West,Wire
+25,2025-01-25,Widget A,Widgets,5,19.99,0.00,99.95,CUST1025,North,Credit Card
+26,2025-01-26,Widget B,Widgets,1,24.50,1.50,23.00,CUST1026,South,PayPal
+27,2025-01-27,Gadget C,Gadgets,2,9.99,3.00,16.98,CUST1027,East,Cash
+28,2025-01-28,Gadget D,Gadgets,3,14.75,4.50,39.75,CUST1028,West,Wire
+29,2025-01-29,Thingamajig E,Thingamajigs,4,49.99,0.00,199.96,CUST1029,North,Credit Card
+30,2025-01-30,Doohickey F,Accessories,5,5.50,1.50,26.00,CUST1030,South,PayPal
+31,2025-01-31,Accessory G,Accessories,1,3.25,3.00,0.25,CUST1031,East,Cash
+32,2025-02-01,Tool H,Tools,2,29.95,4.50,55.40,CUST1032,West,Wire
+33,2025-02-02,Widget A,Widgets,3,19.99,0.00,59.97,CUST1033,North,Credit Card
+34,2025-02-03,Widget B,Widgets,4,24.50,1.50,96.50,CUST1034,South,PayPal
+35,2025-02-04,Gadget C,Gadgets,5,9.99,3.00,46.95,CUST1035,East,Cash
+36,2025-02-05,Gadget D,Gadgets,1,14.75,4.50,10.25,CUST1036,West,Wire
+37,2025-02-06,Thingamajig E,Thingamajigs,2,49.99,0.00,99.98,CUST1037,North,Credit Card
+38,2025-02-07,Doohickey F,Accessories,3,5.50,1.50,15.00,CUST1038,South,PayPal
+39,2025-02-08,Accessory G,Accessories,4,3.25,3.00,10.00,CUST1039,East,Cash
+40,2025-02-09,Tool H,Tools,5,29.95,4.50,145.25,CUST1040,West,Wire
+41,2025-02-10,Widget A,Widgets,1,19.99,0.00,19.99,CUST1041,North,Credit Card
+42,2025-02-11,Widget B,Widgets,2,24.50,1.50,47.50,CUST1042,South,PayPal
+43,2025-02-12,Gadget C,Gadgets,3,9.99,3.00,26.97,CUST1043,East,Cash
+44,2025-02-13,Gadget D,Gadgets,4,14.75,4.50,54.50,CUST1044,West,Wire
+45,2025-02-14,Thingamajig E,Thingamajigs,5,49.99,0.00,249.95,CUST1045,North,Credit Card
+46,2025-02-15,Doohickey F,Accessories,1,5.50,1.50,4.00,CUST1046,South,PayPal
+47,2025-02-16,Accessory G,Accessories,2,3.25,3.00,3.50,CUST1047,East,Cash
+48,2025-02-17,Tool H,Tools,3,29.95,4.50,85.35,CUST1048,West,Wire
+49,2025-02-18,Widget A,Widgets,4,19.99,0.00,79.96,CUST1049,North,Credit Card
+50,2025-02-19,Widget B,Widgets,5,24.50,1.50,121.00,CUST1050,South,PayPal
+51,2025-02-20,Gadget C,Gadgets,1,9.99,3.00,6.99,CUST1051,East,Cash
+52,2025-02-21,Gadget D,Gadgets,2,14.75,4.50,25.00,CUST1052,West,Wire
+53,2025-02-22,Thingamajig E,Thingamajigs,3,49.99,0.00,149.97,CUST1053,North,Credit Card
+54,2025-02-23,Doohickey F,Accessories,4,5.50,1.50,20.50,CUST1054,South,PayPal
+55,2025-02-24,Accessory G,Accessories,5,3.25,3.00,13.25,CUST1055,East,Cash
+56,2025-02-25,Tool H,Tools,1,29.95,4.50,25.45,CUST1056,West,Wire
+57,2025-02-26,Widget A,Widgets,2,19.99,0.00,39.98,CUST1057,North,Credit Card
+58,2025-02-27,Widget B,Widgets,3,24.50,1.50,72.00,CUST1058,South,PayPal
+59,2025-02-28,Gadget C,Gadgets,4,9.99,3.00,36.96,CUST1059,East,Cash
+60,2025-03-01,Gadget D,Gadgets,5,14.75,4.50,69.25,CUST1060,West,Wire
+61,2025-03-02,Thingamajig E,Thingamajigs,1,49.99,0.00,49.99,CUST1061,North,Credit Card
+62,2025-03-03,Doohickey F,Accessories,2,5.50,1.50,9.50,CUST1062,South,PayPal
+63,2025-03-04,Accessory G,Accessories,3,3.25,3.00,6.75,CUST1063,East,Cash
+64,2025-03-05,Tool H,Tools,4,29.95,4.50,115.30,CUST1064,West,Wire
+65,2025-03-06,Widget A,Widgets,5,19.99,0.00,99.95,CUST1065,North,Credit Card
+66,2025-03-07,Widget B,Widgets,1,24.50,1.50,23.00,CUST1066,South,PayPal
+67,2025-03-08,Gadget C,Gadgets,2,9.99,3.00,16.98,CUST1067,East,Cash
+68,2025-03-09,Gadget D,Gadgets,3,14.75,4.50,39.75,CUST1068,West,Wire
+69,2025-03-10,Thingamajig E,Thingamajigs,4,49.99,0.00,199.96,CUST1069,North,Credit Card
+70,2025-03-11,Doohickey F,Accessories,5,5.50,1.50,26.00,CUST1070,South,PayPal
+71,2025-03-12,Accessory G,Accessories,1,3.25,3.00,0.25,CUST1071,East,Cash
+72,2025-03-13,Tool H,Tools,2,29.95,4.50,55.40,CUST1072,West,Wire
+73,2025-03-14,Widget A,Widgets,3,19.99,0.00,59.97,CUST1073,North,Credit Card
+74,2025-03-15,Widget B,Widgets,4,24.50,1.50,96.50,CUST1074,South,PayPal
+75,2025-03-16,Gadget C,Gadgets,5,9.99,3.00,46.95,CUST1075,East,Cash
+76,2025-03-17,Gadget D,Gadgets,1,14.75,4.50,10.25,CUST1076,West,Wire
+77,2025-03-18,Thingamajig E,Thingamajigs,2,49.99,0.00,99.98,CUST1077,North,Credit Card
+78,2025-03-19,Doohickey F,Accessories,3,5.50,1.50,15.00,CUST1078,South,PayPal
+79,2025-03-20,Accessory G,Accessories,4,3.25,3.00,10.00,CUST1079,East,Cash
+80,2025-03-21,Tool H,Tools,5,29.95,4.50,145.25,CUST1080,West,Wire
+81,2025-03-22,Widget A,Widgets,1,19.99,0.00,19.99,CUST1081,North,Credit Card
+82,2025-03-23,Widget B,Widgets,2,24.50,1.50,47.50,CUST1082,South,PayPal
+83,2025-03-24,Gadget C,Gadgets,3,9.99,3.00,26.97,CUST1083,East,Cash
+84,2025-03-25,Gadget D,Gadgets,4,14.75,4.50,54.50,CUST1084,West,Wire
+85,2025-03-26,Thingamajig E,Thingamajigs,5,49.99,0.00,249.95,CUST1085,North,Credit Card
+86,2025-03-27,Doohickey F,Accessories,1,5.50,1.50,4.00,CUST1086,South,PayPal
+87,2025-03-28,Accessory G,Accessories,2,3.25,3.00,3.50,CUST1087,East,Cash
+88,2025-03-29,Tool H,Tools,3,29.95,4.50,85.35,CUST1088,West,Wire
+89,2025-03-30,Widget A,Widgets,4,19.99,0.00,79.96,CUST1089,North,Credit Card
+90,2025-03-31,Widget B,Widgets,5,24.50,1.50,121.00,CUST1090,South,PayPal
+91,2025-04-01,Gadget C,Gadgets,1,9.99,3.00,6.99,CUST1091,East,Cash
+92,2025-04-02,Gadget D,Gadgets,2,14.75,4.50,25.00,CUST1092,West,Wire
+93,2025-04-03,Thingamajig E,Thingamajigs,3,49.99,0.00,149.97,CUST1093,North,Credit Card
+94,2025-04-04,Doohickey F,Accessories,4,5.50,1.50,20.50,CUST1094,South,PayPal
+95,2025-04-05,Accessory G,Accessories,5,3.25,3.00,13.25,CUST1095,East,Cash
+96,2025-04-06,Tool H,Tools,1,29.95,4.50,25.45,CUST1096,West,Wire
+97,2025-04-07,Widget A,Widgets,2,19.99,0.00,39.98,CUST1097,North,Credit Card
+98,2025-04-08,Widget B,Widgets,3,24.50,1.50,72.00,CUST1098,South,PayPal
+99,2025-04-09,Gadget C,Gadgets,4,9.99,3.00,36.96,CUST1099,East,Cash
+100,2025-04-10,Gadget D,Gadgets,5,14.75,4.50,69.25,CUST1100,West,Wire
